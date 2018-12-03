@@ -75,6 +75,6 @@ a couple of profile classes. Now you can play with it and learn.
 Now go check out the docs and see what else you can do. Feel free to hit my up on
 the Puppet Slack if you want more advice.
 
-* https://puppet.com/docs
+* https://puppet.com/docs/puppet/latest
 * https://forge.puppet.com
 * http://slack.puppet.com
